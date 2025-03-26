@@ -31,6 +31,13 @@
 > 📄 [2. T-SQL_Queries.sql](./2.%20T-SQL_Queries.sql)
 
 
+### 3. DDL Basics
+- **Task 1**: Created a database with a maximum size of 100 MB and expected usage around 30 MB. Configured all necessary parameters. The transaction log was assigned to a separate physical disk (if available).
+- **Task 2**: Designed a database for a wholesale warehouse with entities including suppliers, staff, and regular customers. Table fields were determined based on logical data modeling.
+
+> 📄 [3. DDL basics.sql](./3.%20DDL%20basics.sql)
+
+
 ### 4. Database Design  
 - **Task 2**: Created a database with a maximum size of 100 MB, with expected usage around 30 MB. Configured all required settings. The transaction log was placed on a separate physical disk (if available).  
 - **Task 3**: Normalized the provided table to eliminate redundancy and ensure database normalization principles.  
