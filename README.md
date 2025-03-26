@@ -20,6 +20,7 @@
 
 > 📄 [1. Introduction to SQL.sql](./1.%20Introduction%20to%20SQL.sql)
 
+
 ### 2. T-SQL Queries
 - **Task 1**: Created a database named `HomeWork` with a `Product` table. Defined columns: `ProductId`, `Name`, `ProductNumber`, `Cost`, `Count`, `SellStartDate`. Populated the table with 10 sample records.
 - **Task 2**:
@@ -28,6 +29,14 @@
 - **Task 3**: Increased the price of **Sviatoch Chocolate** by $0.25
 
 > 📄 [2. T-SQL_Queries.sql](./2.%20T-SQL_Queries.sql)
+
+
+### 4. Database Design  
+- **Task 2**: Created a database with a maximum size of 100 MB, with expected usage around 30 MB. Configured all required settings. The transaction log was placed on a separate physical disk (if available).  
+- **Task 3**: Normalized the provided table to eliminate redundancy and ensure database normalization principles.  
+
+> 📄 [4. Database design.sql](./4.%20Database%20design.sql)
+
 
 ## How to Use
 
