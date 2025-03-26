@@ -14,19 +14,28 @@
 ### 1. Introduction to SQL
 - **Task 1**: Created a database named `MyDB`.
 - **Task 2**: Defined and created three tables:
-  1. `Employees` – stores names and phone numbers
-  2. `Salaries` – contains job titles and salary information
-  3. `PersonalInfo` – includes marital status, birth date, and place of residence
+  1. Stores employee names and phone numbers
+  2. Contains salary information and job titles
+  3. Includes marital status, date of birth, and place of residence
 
-> 📄 [Introduction to SQL.sql](./1.%20Introduction%20to%20SQL/Introduction%20to%20SQL.sql)
+> 📄 [1. Introduction to SQL.sql](./1.%20Introduction%20to%20SQL.sql)
+
+### 2. T-SQL Queries
+- **Task 1**: Created a database named `HomeWork` with a `Product` table. Defined columns: `ProductId`, `Name`, `ProductNumber`, `Cost`, `Count`, `SellStartDate`. Populated the table with 10 sample records.
+- **Task 2**:
+  - Selected products with a quantity greater than 59
+  - Selected products priced above $3 and available since `20/08/2011`
+- **Task 3**: Increased the price of **Sviatoch Chocolate** by $0.25
+
+> 📄 [2. T-SQL_Queries.sql](./2.%20T-SQL_Queries.sql)
 
 ## How to Use
 
 1. Open the `.sql` file in **SQL Server Management Studio (SSMS)** or any compatible SQL editor.
 2. Execute the queries step-by-step to:
-   - Create the `MyDB` database
-   - Create the necessary tables
-   - Populate or inspect the structure if needed
+   - Create databases
+   - Create and populate tables
+   - Run SELECT, UPDATE, and other operations
 
 ## Prerequisites
 
