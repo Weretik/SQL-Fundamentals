@@ -59,6 +59,19 @@
 > 📄 [5. JOIN-s.sql](./5.%20JOIN-s.sql)
 
 
+### 6. Nested Queries
+- **Task 1**: Created a database named `MyJoinsDB`.
+- **Task 2**: Created three tables:
+  1. Stores employee names and phone numbers
+  2. Contains salary information and job titles (e.g., general director, manager, worker)
+  3. Includes marital status, date of birth, and place of residence
+- **Task 3**: Used nested queries to:
+  1. Retrieve employee contact data (phone numbers, place of residence)
+  2. Get birth dates and phone numbers of unmarried employees
+  3. Get birth dates and phone numbers of all managers
+
+> 📄 [6. Nested queries.sql](./6.%20Nested%20queries.sql)
+
 ## How to Use
 
 1. Open the `.sql` file in **SQL Server Management Studio (SSMS)** or any compatible SQL editor.
