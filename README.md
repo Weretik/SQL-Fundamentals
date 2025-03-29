@@ -72,6 +72,27 @@
 
 > 📄 [6. Nested queries.sql](./6.%20Nested%20queries.sql)
 
+
+### 7. Representation. Stored Procedures. User Functions
+- **Task 1**: Reviewed existing indexes in the `MyJoinsDB` database created in previous lessons.
+- **Task 2**: Designed custom indexes for the previously created tables, providing justification for their necessity.
+- **Task 3**: Created views for the following:
+  - Employee contact data (phone numbers, place of residence)
+  - Birth dates and phone numbers of unmarried employees
+  - Birth dates and phone numbers of all managers
+- **Task 4**: Created a new database named `MyFunkDB`.
+- **Task 5**: Created three tables:
+  1. Stores employee names and phone numbers
+  2. Contains salary information and job titles (e.g., general director, manager, worker)
+  3. Includes marital status, date of birth, and place of residence
+- **Task 6**: Developed stored procedures and functions to:
+  - Retrieve contact data of employees
+  - Get birth dates and phone numbers of unmarried employees
+  - Get birth dates and phone numbers of managers
+
+> 📄 [7. Representation. Stored procedures. User functions.sql](./7.%20Representation.%20Stored%20procedures.%20User%20functions.sql)
+
+
 ## How to Use
 
 1. Open the `.sql` file in **SQL Server Management Studio (SSMS)** or any compatible SQL editor.
